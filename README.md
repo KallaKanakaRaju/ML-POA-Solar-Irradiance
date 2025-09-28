@@ -1,4 +1,4 @@
-# Machine Learning-Based Prediction of Plane-of-Array Solar Irradiance: A Comparative Study of GTI and GHI
+
 
 This repository contains the supporting code and dataset for the paper:
 
